@@ -2,7 +2,9 @@
 
 بازارجان اولین پلتفرم هوش رقابتی (Competitive Intelligence) برای پایش و تحلیل قیمت فروشگاه‌ها در ایران
 
-🌐 وب‌سایت رسمی: [![Website](https://img.shields.io/badge/Website-bazaarjaan.ir-blue)](https://bazaarjaan.ir)
+<p align="center">
+  <a href="https://bazaarjaan.ir">🌐 bazaarjaan.ir</a>
+</p>
 
 <p align="center">
   <img src="https://bazaarjaan.ir/img/logo/yvertical.png" alt="بازارجان" />
