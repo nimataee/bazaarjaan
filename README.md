@@ -5,7 +5,7 @@
 🌐 وب‌سایت رسمی: [![Website](https://img.shields.io/badge/Website-bazaarjaan.ir-blue)](https://bazaarjaan.ir)
 
 <p align="center">
-  <img src="https://bazaarjaan.ir/Medias/12dbdabb528b4abb835ddfe4b413fca0.png" alt="بازارجان" />
+  <img src="https://bazaarjaan.ir/img/logo/bvertical.png" alt="بازارجان" />
 </p>
 
 
